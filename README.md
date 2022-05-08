@@ -1,1 +1,1 @@
-# odin-landingPage
+I'll create a webpage with a preprovided design from a "The Odin Project" assignment.
